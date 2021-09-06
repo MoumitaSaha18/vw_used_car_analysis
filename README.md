@@ -12,4 +12,14 @@ Objective:
 10.Boxplot for VW cars pricce and mileage analysis based on fuelType and transmission respectively
 
 
+Visualizing of a dataset:
+1. Visualizing the dataset through different plots.
+2. Top 5 selling cars in the dataset
+3. The average selling price of the top 5 selling car models
+4. The toatl sell of the top 5 selling car models
+5. Data set Aggregation and exploratory data analysis based on model, transmission and fuel type of the VW cars.
+
+Data Visualization: In this project, the dataset has been visualized through observation, using Bar Plot, Scatter Plot, Histogram Plot, Distribution Plot, ECDF Plot, Violin Plot and Box Plot.
+
+
 Dataset Source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
