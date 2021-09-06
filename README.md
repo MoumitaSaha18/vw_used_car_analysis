@@ -1,18 +1,21 @@
-VW used cars analysis towards data visualization with python. 
+VW used cars analysis towards data visualization with python. Analysis of the data set through comparison of different columns with one another, using Bar Plot, Scatter Plot, Histogram Plot, Distribution Plot, ECDF Plot, Violin Plot and Box Plot.
+
 Objective:
 1. Data Visualization using NumPy and Pandas
-2. Finding number of unique values present in the DataFrame
-3. Write functions in Python
-4. Data Visualization by using Bar Plot
-5. Changing the context of a plot
-6. Creating subplots
-7. Histogramic Analysis for VW Used Cars Based on Year, Price, Mileage and mpg
-8. Probabilistic Analysis of VW used Cars for Price and Mileage
-9. Distributive Analysis of VW used cars Price for fuelType 
-10.Boxplot for VW cars pricce and mileage analysis based on fuelType and transmission respectively
+2. Importing necessary python packages
+3. Reading excel (.csv) file
+4. Finding number of unique values present in the DataFrame
+5. Writing functions in Python
+6. Data Visualization by using Bar Plot
+7. Changing the context of a plot
+8. Creating subplots
+9. Histogramic Analysis for VW Used Cars Based on Year, Price, Mileage and mpg
+10. Probabilistic Analysis of VW used Cars for Price and Mileage
+11. Distributive Analysis of VW used cars Price for fuelType 
+12.Boxplot for VW cars price and mileage analysis based on fuelType and transmission respectively
 
 
-Visualizing of a dataset:
+Visualizing of the dataset:
 1. Visualizing the dataset through different plots.
 2. Top 5 selling cars in the dataset
 3. The average selling price of the top 5 selling car models
