@@ -1,4 +1,4 @@
-VW used cars analysis towards data visualization with python. Analysis of the data set through comparison of different columns with one another, using Bar Plot, Scatter Plot, Histogram Plot, Distribution Plot, ECDF Plot, Violin Plot and Box Plot.
+VW used cars analysis towards data visualization with python. Analysis of the data set through comparison of different columns with one another, using Bar Plot, Scatter Plot, Histogram, Distribution Plot, ECDF Plot, Violin Plot and Box Plot.
 
 Objective:
 1. Data Visualization using NumPy and Pandas
@@ -22,7 +22,7 @@ Visualizing of the dataset:
 4. The toatl sell of the top 5 selling car models
 5. Data set Aggregation and exploratory data analysis based on model, transmission and fuel type of the VW cars.
 
-Data Visualization: In this project, the dataset has been visualized through observation, using Bar Plot, Scatter Plot, Histogram Plot, Distribution Plot, ECDF Plot, Violin Plot and Box Plot.
+Data Visualization: In this project, the dataset has been visualized through observation, using Bar Plot, Scatter Plot, Histogram, Distribution Plot, ECDF Plot, Violin Plot and Box Plot.
 
 
 Dataset Source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
