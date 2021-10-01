@@ -24,5 +24,6 @@ Visualizing of the dataset:
 
 Data Visualization: In this project, the dataset has been visualized through observation, using Bar Plot, Scatter Plot, Histogram, Distribution Plot, ECDF Plot, Violin Plot and Box Plot.
 
+Linear Regression
 
 Dataset Source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
