@@ -24,6 +24,10 @@ Visualizing of the dataset:
 
 Data Visualization: In this project, the dataset has been visualized through observation, using Bar Plot, Scatter Plot, Histogram, Distribution Plot, ECDF Plot, Violin Plot and Box Plot.
 
-Linear Regression
+Machine Learning:
+1. One-hot encoding
+2. Linear Regression
+3. Model training result prediction
+4. Comparison of actual and predicted target variable
 
 Dataset Source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
